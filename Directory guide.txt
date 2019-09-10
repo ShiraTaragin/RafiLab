@@ -1,0 +1,33 @@
+Analysis - 
+
+ChannelRhodopsin - 
+
+ControlOdorValves - 
+
+General - 
+
+LabView - 
+
+LFP - 
+
+LightStimuli - Run the projector
+
+SignalProcessing - 
+
+SystemCheck - 
+	
+	LightCheck - Scripts to check light intensity and cross-talk
+			See 'How to measure optical power in the setup.docx' for instructions on building the light map and 'LightCheckHowTo.m' for manual stimulus presentation
+
+		ImageAnalysis - if using the camera rather than the sensor
+
+
+
+Tetrodes - 
+
+RafiStop - 
+
+
+
+
+
